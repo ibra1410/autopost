@@ -1,0 +1,52 @@
+{
+  "6582207402": {
+    "vip": false
+  },
+  "1871604901": {
+    "vip": true
+  },
+  "5395476089": {
+    "vip": true,
+    "limitation": {
+      "days": 30,
+      "startDate": "2024-08-15",
+      "endDate": "2024-09-14",
+      "endTime": "22:05"
+    },
+    "session": "BAE86UMAjNE8UIdMVeN7OORo465cjbiE16fy5sqiXNGhhBhdQ8ZKPzmh0wQlCFISPedOifeNkPFbv_SBFLSXoG-HefokEuuyYrxfApZwCqRr8S8fd8Ff9xeETx1q0ohAvIpS9eOgPJ4GL9AHJQN0IiHBcYQBS0NgPx8zkfuvGAjaj7Bryy5-QS8vr5U4FRl2_Dgpx5w-aganQRwKZ7ezKQSKh0XJcp2pXHuLtVqHydudDJLsTgV2GQ98wv39HLv0Ng2SctRvz7JqvZNu2zLQuoxJvKK_ECxL8MiQFUfIV-i8fNQ8l5TT4pgJ1INnJrLeE8sXKZyJnyfNoC6iXE8ff7D3onifygAAAAFqoEj8AA",
+    "account_number": "+244922837887",
+    "caption": null,
+    "groups": [
+      -1001987775361
+    ],
+    "posting": false,
+    "waitTime": 1
+  },
+  "7205059042": {
+    "vip": false
+  },
+  "1090285263": {
+    "vip": true,
+    "limitation": {
+      "days": 7,
+      "startDate": "2024-08-16",
+      "endDate": "2024-08-23",
+      "endTime": "02:59"
+    },
+    "groups": [
+      -1002067466424,
+      -1001962178913,
+      -1001164577737,
+      -1001962178913,
+      -1001763984332,
+      -1001763984332,
+      -1001962178913
+    ],
+    "caption": "\u0645\u0637\u0644\u0648\u0628 \u0631\u0627\u062c\u062d\u064a \u0643\u0631\u064a\u0645\u064a \u0627\u064a \u0643\u0645\u064a\u0647 \u064a\u0648\u0633\u062f\u062a",
+    "session": "BAE86UMAvl9Btdgzlp4aWvoArr_e_ZqumgzrYma_A0bn2IeyiBklWcF_3PQHUOs36uUOduIHOGWi6VWo5KW2mmCOgMi__LqOBnPXbLIGZMOIoNugmDOiH0C4JPcjYdIp7yjVIH1UP2I3-Rw5phiKewKvl_g_PaOfC_rwaqb9-PpBJEY0w8cuwFZLaWlmFCXqUfNyVmAYgGnIcwRMYeG75TKzrxuCPiCimI_bsevdEecAfRkIPQP1Opm5hFt7hfi2h2TVMAGPrnwDB2aWj4Bw13B7E4sN6b3MW2C_ceykfFMVC0pzOIsx5E124m9o7xn1OCJSxCHQRhxn3IjiE61EucpeKeNCRgAAAAG18eLHAA",
+    "account_number": "+966535415429",
+    "posting": true,
+    "waitTime": 500,
+    "posting2": false
+  }
+}
