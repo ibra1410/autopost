@@ -32,15 +32,15 @@ app = Client(
     "autoPost",
     api_id=20769091,
     api_hash="0a3c7b2d7c8132bbafd4ffe9eb516968",
-    bot_token="7492426341:AAEG0ZehwOk8HEMfqSsEtRNPJMbW7BEmw7M",
+    bot_token="7124860617:AAE-gj5Vvjr-F8pZgFseuilxnVjllbvQyv8",
 )
 loop = get_event_loop()
 listener = Listener(client = app)
-owner = 1871604901 # YOUR ID
+owner = 6636085623 # YOUR ID
 loop = get_event_loop()
 listener = Listener(client = app)
-owners = [6582207402, 1871604901]  # قائمة معرفات المالكين
-own = 1871604901
+owners = [6636085623, 7238296267]  # قائمة معرفات المالكين
+own = 6636085623
 # telegram @tomiin
 # channel @tomiin
 homeMarkup = Markup([
